@@ -12,4 +12,4 @@ public class KafkaTopicConfig {
         return TopicBuilder.name("wikimedia_recentchange").build();
     }
 }
-//testtt
+//testttt
